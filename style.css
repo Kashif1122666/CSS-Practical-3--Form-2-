@@ -1,0 +1,114 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+ display: inline-block;
+ overflow: hidden;
+background-color: rgba(55, 104, 156, 0.4); 
+}
+.item2{
+    border: 1px solid black;
+    width: 350px;
+    height: 610px;
+    position: relative; 
+      top: 25px;
+     left: 550px; 
+     background-color: white;
+     border-radius: 10px;
+ } 
+ h1{
+    text-align: center;
+    position: relative;
+    top: 50px;
+ }
+ p{
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.lbluse{
+    position: relative;
+    top: 130px; 
+    left: -120px;
+}
+.imptemail{
+    position: relative;
+    top: 140px;
+    width: 300px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.lblpsd{
+    position: relative;
+    top: 220px ;
+    left: -110px;
+}
+.imptpassword{
+    position: relative;
+    top: 230px;
+    width: 300px;
+    left: 20px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+a{
+    text-decoration: none;
+}
+label{
+    position: relative;
+    top: 250px;
+    left: 20px;
+}
+.forgotp{
+    position: relative;
+    top: 250px;
+    left: 210px;
+}
+.loginbtn{
+    position: relative;
+    top: 280px;
+    left: 25px; 
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(173, 114, 228);
+    color: white;
+}
+.dftLg{
+    top: 310px;
+    left: -5px; ;
+}
+.facebook{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 90px;
+    top: 310px;
+    opacity: 1;
+    
+}
+.twitterx{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 90px;
+    top: 310px;
+    opacity: 1;
+    border-radius: 50%;
+}
+.instagram{
+    width: 50px;
+    height: 40px;
+    position: relative;
+    left: 90px;
+    top: 310px;
+    opacity: 1;
+}
+.sigup{
+    position: relative;
+    top: 350px; 
+    color: gray;
+    left: -15px;
+}
